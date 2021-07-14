@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: /
+source: ./
 incremental: false
 highlighter: rouge
 gist:
@@ -11,3 +11,5 @@ kramdown:
 theme: jekyll-theme-minimal
 markdown: kramdown
 desciption: KupferSync Systems
+# github:
+#   is_project_page: false
